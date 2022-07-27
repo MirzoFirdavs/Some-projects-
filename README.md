@@ -1,1 +1,1 @@
-# Some-projects-
+# Here I will lay out the tasks and projects that I do and that I was given at interviews.
