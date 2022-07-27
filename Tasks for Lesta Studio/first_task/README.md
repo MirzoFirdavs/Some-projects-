@@ -1,0 +1,1 @@
+The advantage of the my_is_even function is that it is implemented using bitwise operations, which makes it much faster than the implementation of the is_even function, which is written using binary operations.
